@@ -1,0 +1,8 @@
+.classpath
+.gradle
+.project
+.settings
+build
+poc.iml
+poc.ipr
+poc.iws
